@@ -22,4 +22,4 @@ Function buttons:
 ![image](https://github.com/Helltaker1/Calculator/assets/111696215/9c8725f5-b803-4bbe-ad85-a91d9942e3ec)
 
 ## Bibliography
-icon image: (<https://img.freepik.com/premium-wektory/kalkulator-pikselowy_505135-28.jpg?w=2000>)
+icon image: <https://img.freepik.com/premium-wektory/kalkulator-pikselowy_505135-28.jpg?w=2000>
